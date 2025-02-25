@@ -21,7 +21,7 @@ Axios es una biblioteca de JavaScript utilizada para realizar peticiones HTTP de
 - Soporta promesas, lo que permite un manejo más limpio de respuestas y errores.
 - Es compatible con múltiples navegadores y fácil de integrar con otros frameworks.
 
-  Integrantes:
-  Acosta Loor María Belén
-  Bravo Quijije Nixon ALejandro
-  Chasi Cabascango María Rosario
+## Integrantes:
+- Acosta Loor María Belén
+- Bravo Quijije Nixon ALejandro
+- Chasi Cabascango María Rosario
