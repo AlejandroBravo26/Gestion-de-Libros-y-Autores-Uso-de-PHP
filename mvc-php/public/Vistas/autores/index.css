@@ -1,0 +1,73 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+/* Navbar */
+.navbar {
+    background-color: #007bff !important;
+}
+.navbar .navbar-brand,
+.navbar .nav-link {
+    color: #fff !important;
+}
+.navbar .nav-link:hover {
+    text-decoration: underline;
+}
+
+/* Contenedor */
+.container {
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+}
+
+/* Tabla */
+.table {
+    background: #fff;
+    border-radius: 8px;
+    overflow: hidden;
+}
+.table th {
+    background: #007bff;
+    color: #fff;
+}
+.table td {
+    vertical-align: middle;
+}
+
+/* Botones */
+.btn {
+    border-radius: 5px;
+}
+.btn-warning {
+    background: #ffc107;
+    border: none;
+}
+.btn-danger {
+    background: #dc3545;
+    border: none;
+}
+.btn-primary {
+    background: #007bff;
+    border: none;
+}
+.btn:hover {
+    opacity: 0.8;
+}
+
+/* Footer */
+footer {
+    margin-top: 20px;
+    background-color: #f8f9fa;
+    padding: 10px;
+    text-align: center;
+    font-size: 14px;
+    border-top: 1px solid #ddd;
+}
